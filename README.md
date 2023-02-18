@@ -12,5 +12,5 @@ The goal of the game is to flag (i.e., identify) each of the mines. In many impl
 ### To play game
 
 - Clone this repo
-- Once in the directory for the project, run `pip3 install -r requirements.txt` to install the required Python package (`pygame`) for this project if you don’t already have it installed.
-- In terminal `python runner.py`
+- Once in the directory for the project, run ```pip3 install -r requirements.txt``` to install the required Python package (`pygame`) for this project if you don’t already have it installed.
+- In terminal ```python runner.py```
